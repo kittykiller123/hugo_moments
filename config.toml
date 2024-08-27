@@ -5,6 +5,6 @@ paginate = 10
 paginatePath = '.'
 
 [params]
-    title = "Moments Demo"
-    signature = "人生如逆旅，我亦是行人。"
-    name = "Default User"
+    title = "永远在刮的林中之风"
+    signature = "夏日在冰凉的墙壁后面蒸腾、发酵"
+    name = "饭桶"
