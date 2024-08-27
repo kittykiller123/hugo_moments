@@ -1,4 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseURL = "https://kitty-moments.vercel.app/"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "Moments Demo"
+    signature = "人生如逆旅，我亦是行人。"
+    name = "Default User"
